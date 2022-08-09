@@ -1,2 +1,2 @@
 # Made-Game
-1 person game developer
+1 person game develop
